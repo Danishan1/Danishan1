@@ -1,16 +1,33 @@
-### Hi there 👋
+# Welcome to Danishan's portfolio!
 
-<!--
-**Danishan1/Danishan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Hi! I'm a student of  **Amity University** in **B-tech(CSE)** from 2020. I have done my **Schooling** from **D.A.V. Sr. Sec. School** with **CBSE** board.
+ 
+ # Main Skills
+ 
+ - Data Structure and Algorithms 
+ - C Language
+ - C++ Language
+ - Java Language
+ - HTML 
+ - CSS
+ 
+ # Additional Skills
+ - Microsoft Office 
+ - - Word
+ - - Excel
+ - - Power-Point
+ - - Access
+ - Work-Spaces
+ - - Visual Studio 
+ - - VS code
+ - - Sublime Text
+ - - Atom
+ - - Eclipse
+ - - IntelliJ
+ - 
+ 
 
-Here are some ideas to get you started:
+# Github Activty... 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Danishan](https://github-readme-stats.vercel.app/api?username=Danishan1&&show_icons=true&&title&title_color=17202A&icon_color=A2D9CE&text_color=daf7dc&bg_color=16A085)
