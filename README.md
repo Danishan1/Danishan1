@@ -1,15 +1,19 @@
 # Welcome to Danishan's portfolio!
 
- Hi! I'm a student of  **Amity University** in **B-tech(CSE)** from 2020. I have done my **Schooling** from **D.A.V. Sr. Sec. School** with **CBSE** board.
+ Hi! I'm a student of  **Amity University** in **B-tech(CSE)** from 2020-24. I have done my **Schooling** from **D.A.V. Sr. Sec. School** with **CBSE** board.
  
  # Main Skills
  
- - Data Structure and Algorithms 
  - C Language
  - C++ Language
  - Java Language
+ - Data Structure and Algorithms (DSA) 
+ - Object Oreanted Programming (OOP)
+ - Database Management System (DBMS) 
  - HTML 
  - CSS
+ - JavaScript
+ - Lots of Project 
  
  # Additional Skills
  - Microsoft Office 
