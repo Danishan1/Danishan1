@@ -2,7 +2,7 @@
 
  Hi! I'm a student of  **Amity University** in **B-tech(CSE)** from 2020-24. I have done my **Schooling** from **D.A.V. Sr. Sec. School** with **CBSE** board.
  
- [Resume](https://github.com/Danishan1/Danishan1)
+ [Download Resume](https://github.com/Danishan1/Danishan1)
  
  
  
