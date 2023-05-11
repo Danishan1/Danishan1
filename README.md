@@ -4,6 +4,15 @@ Dedicated **B-Tech CSE** student of  **Amity University** in **B-tech(CSE)** bat
  
  [Download Resume](https://github.com/Danishan1/Important/tree/main/Resume)
  
+ #
+ # ABOUT
+ 
+ #### Name : Danishan
+ #### Work : Student, B-tech (CSE) at Amity University
+ #### Contact : +91 9540514188
+ #### e-mail : danishan089@gmail.com
+ #### 
+ 
  
  
  # Main Skills
