@@ -2,9 +2,11 @@
 
 Dedicated **B-Tech CSE** student of  **Amity University** in **B-tech(CSE)** batch 2020-24 passionate about leveraging technology to solve complex problems. Proficient in programming languages like C++, Java, and Python with a strong foundation in data structures and algorithms. Motivated to continuously learn and contribute to the field of computer science through practical application and innovation.
  
+ [Portfolio](https://danishan1.github.io/portfolio/)
+ 
  [Download Resume](https://github.com/Danishan1/Important/tree/main/Resume)
  
-  [Explore Repository](https://github.com/Danishan1?tab=repositories)
+ [Explore Repository](https://github.com/Danishan1?tab=repositories)
 
  
  #
