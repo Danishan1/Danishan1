@@ -33,15 +33,15 @@ and embracing different shift timings.
  
 Bachelor of Technology in Computer Science and Engineering (B.Tech CSE) is an undergraduate degree program that focuses on the study of computer systems, software development, algorithms, and data structures. As a B.Tech CSE graduate, Gained a solid foundation in various aspects of computer science and engineering, preparing you for a wide range of career opportunities in the technology industry. Here is a brief overview of the B.Tech CSE program:
 
-1. **Programming Languages:** C/C++, MySQL, Basic HTML, Basic CSS, Basic Java, Basic Python
-2. **Software Development:** Object-oriented programming (OOP), Agile methodology, Software Development Life Cycle (SDLC)
-3. **Data Structures and Algorithms:** Arrays, Linked Lists, Stacks, Queues, Trees, Graphs, Sorting algorithms, Searching algorithms
-4. **Database Management:** MySQL, Relational Database Management System (RDBMS), Database design, Query optimization
-5. **Web Development:** Front-end development, Responsive web design using CSS
-6. **Problem Solving:** Analytical thinking, Logical reasoning, Troubleshooting
-7. **Version Control Systems:** Git, GitHub, Bitbucket
-8. **Software Testing and Quality Assurance:** Test planning, Test cases creation, Test execution, Bug tracking
-9. **Problem-solving Tools:** IDEs (e.g., IntelliJ, Eclipse, Visual Studio Code), Debugging tools
+1. **Programming Languages:** C/C++, MySQL, Basic HTML, Basic CSS, Basic Java, Basic Python.
+2. **Software Development:** Object-oriented programming (OOP), Agile methodology, Software Development Life Cycle (SDLC).
+3. **Data Structures and Algorithms:** Arrays, Linked Lists, Stacks, Queues, Trees, Graphs, Sorting algorithms, Searching algorithms.
+4. **Database Management:** MySQL, Relational Database Management System (RDBMS), Database design, Query optimization.
+5. **Web Development:** Front-end development, Responsive web design using CSS.
+6. **Problem Solving:** Analytical thinking, Logical reasoning, Troubleshooting.
+7. **Version Control Systems:** Git, GitHub, Bitbucket.
+8. **Software Testing and Quality Assurance:** Test planning, Test cases creation, Test execution, Bug tracking.
+9. **Problem-solving Tools:** IDEs (e.g., IntelliJ, Eclipse, Visual Studio Code), Debugging tools.
 
 
  # Additional Skills
