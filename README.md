@@ -1,9 +1,8 @@
 # Welcome to Danishan's portfolio!
 
-Dedicated **B-Tech CSE** student of  **Amity University** in **B-tech(CSE)** batch 2020-24 passionate about leveraging technology to solve complex problems. Proficient in programming languages like **C++**, **MySQL**, Basic Java, etc with a strong foundation in **data structures and algorithms**. Motivated to continuously learn and contribute to the field of computer science through practical application and innovation.
+I am Danishan, a dedicated **Software Development Engineer (SDE-I)** at JKC Software, with a strong foundation in full-stack web development, particularly the MERN stack (MongoDB or MySQL, Express.js, React.js, Node.js). I recently completed my B-Tech in Computer Science and Engineering, bringing both practical and academic experience to every project I undertake. In addition to developing scalable, efficient solutions, I am skilled in C/C++, Python, and JavaScript, allowing me to tackle diverse challenges across various tech stacks.
 
-**Career Objective:** Dynamic software developer with strong communication and problem-solving skills. Seeking a role to design, develop, and deploy innovative software solutions. Committed to delivering high-quality results, collaborating effectively with customers and team members across diverse locations,
-and embracing different shift timings.
+**Career Objective:** Dynamic software developer with strong communication and problem-solving skills. Seeking a role to design, develop, and deploy innovative software solutions. Committed to delivering high-quality results, collaborating effectively with customers and team members across diverse locations, and embracing different shift timings.
  
  [Portfolio](https://danishan1.github.io/portfolio/)
  
@@ -15,15 +14,13 @@ and embracing different shift timings.
  #
  # ABOUT
  
- **Name : Danishan**
+ **Name: Danishan**
  
- **Work : Student, Bachelor in Computer Science and Engineering (CSE) at Amity University**
+ **Work: Software Development Engineer (SDE-I) @ JKC Software**
  
- **University : Amity University, Uttar Pradesh (2020-24)** 
+ **Qualification: B-Tech (CSE'24) @ Amity University, Uttar-Pradesh** 
  
- **Contact : +91 95405 14188**
- 
- **e-mail : danishan089@gmail.com**
+ **Contact: danishan089@gmail.com**
  
  ##### 
  
