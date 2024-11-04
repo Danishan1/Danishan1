@@ -1,6 +1,6 @@
 # Welcome to Danishan's portfolio!
 
-I am Danishan, a dedicated **Software Development Engineer (SDE-I)** at JKC Software, with a strong foundation in full-stack web development, particularly the MERN stack (MongoDB or MySQL, Express.js, React.js, Node.js). I recently completed my B-Tech in Computer Science and Engineering, bringing both practical and academic experience to every project I undertake. In addition to developing scalable, efficient solutions, I am skilled in C/C++, Python, and JavaScript, allowing me to tackle diverse challenges across various tech stacks.
+I am Danishan, with a strong foundation in full-stack web development, particularly the MERN stack (MongoDB or MySQL, Express.js, React.js, Node.js). I recently completed my B-Tech in Computer Science and Engineering, bringing both practical and academic experience to every project I undertake. In addition to developing scalable, efficient solutions, I am skilled in C/C++, Python, and JavaScript, allowing me to tackle diverse challenges across various tech stacks.
 
 **Career Objective:** Dynamic software developer with strong communication and problem-solving skills. Seeking a role to design, develop, and deploy innovative software solutions. Committed to delivering high-quality results, collaborating effectively with customers and team members across diverse locations, and embracing different shift timings.
  
@@ -15,9 +15,7 @@ I am Danishan, a dedicated **Software Development Engineer (SDE-I)** at JKC Soft
  # ABOUT
  
  **Name: Danishan**
- 
- **Work: Software Development Engineer (SDE-I) @ JKC Software**
- 
+  
  **Qualification: B-Tech (CSE'24) @ Amity University, Uttar-Pradesh** 
  
  **Contact: danishan089@gmail.com**
