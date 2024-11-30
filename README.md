@@ -2,7 +2,7 @@
 
 In my role as an **SDE-I** at **JKC Software**, I work on developing and optimizing full-stack applications, leveraging the MERN stack and other technologies to deliver scalable, efficient solutions. My responsibilities include collaborating with cross-functional teams, managing end-to-end project requirements, and ensuring quality through rigorous testing and performance tuning.
 
-# Key Contributions:
+# Key Responsibilities:
 - **Full-Stack Development:** Build, test, and deploy responsive applications using MongoDB, Express.js, React, and Node.js, ensuring optimized and user-centric design.
 - **Problem Solving & Optimization:** Tackle complex technical challenges by identifying bottlenecks, improving code efficiency, and implementing best practices.
 - **Collaboration & Cross-Functional Work:** Work closely with designers, QA, and project managers to align on project goals and drive seamless delivery.
