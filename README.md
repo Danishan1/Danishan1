@@ -1,8 +1,14 @@
 # Welcome to Danishan's portfolio!
 
-I am Danishan, with a strong foundation in full-stack web development, particularly the MERN stack (MongoDB or MySQL, Express.js, React.js, Node.js). I recently completed my B-Tech in Computer Science and Engineering, bringing both practical and academic experience to every project I undertake. In addition to developing scalable, efficient solutions, I am skilled in C/C++, Python, and JavaScript, allowing me to tackle diverse challenges across various tech stacks.
+In my role as an **SDE-I** at **JKC Software**, I work on developing and optimizing full-stack applications, leveraging the MERN stack and other technologies to deliver scalable, efficient solutions. My responsibilities include collaborating with cross-functional teams, managing end-to-end project requirements, and ensuring quality through rigorous testing and performance tuning.
 
-**Career Objective:** Dynamic software developer with strong communication and problem-solving skills. Seeking a role to design, develop, and deploy innovative software solutions. Committed to delivering high-quality results, collaborating effectively with customers and team members across diverse locations, and embracing different shift timings.
+# Key Contributions:
+- **Full-Stack Development:** Build, test, and deploy responsive applications using MongoDB, Express.js, React, and Node.js, ensuring optimized and user-centric design.
+- **Problem Solving & Optimization:** Tackle complex technical challenges by identifying bottlenecks, improving code efficiency, and implementing best practices.
+- **Collaboration & Cross-Functional Work:** Work closely with designers, QA, and project managers to align on project goals and drive seamless delivery.
+- **Continuous Learning & Growth:** Stay updated with industry trends and emerging technologies, integrating new skills into ongoing projects and contributing to knowledge sharing within the team.
+
+My work at JKC Software allows me to enhance my technical expertise while contributing to impactful projects, furthering my passion for both software development and delivering value through technology.
  
  [Portfolio](https://danishan1.github.io/portfolio/)
  
@@ -15,9 +21,11 @@ I am Danishan, with a strong foundation in full-stack web development, particula
  # ABOUT
  
  **Name: Danishan**
-  
- **Qualification: B-Tech (CSE'24) @ Amity University, Uttar-Pradesh** 
+
+ **Work: Software Development Engineer - I (SDE-I) @ JKC Softwares**  
  
+ **Qualification: B-Tech (CSE'24) @ Amity University, Uttar-Pradesh** 
+
  **Contact: danishan089@gmail.com**
  
  ##### 
