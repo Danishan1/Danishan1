@@ -1,6 +1,6 @@
 # Welcome to Danishan's Portfolio!
 
-I am **Danishan**, currently serving as a **Technical Project Lead** at **JKC Software** and the **Founder & Technical Architect** at **itsRIGHTtime** (pre-launch). I lead the end-to-end development of scalable software products — from system design to code delivery — across diverse domains like **EdTech**, **DesignTech**, and **Cybersecurity**.
+I am **Danishan**, currently serving as a **Technical Project Lead** at **JKC Software** and the **Founder & Technical Architect** at **itsRIGHTtime** (pre-launch). I lead the end-to-end development of scalable software products — from system design to code delivery — across diverse domains like **EdTech**, **DesignTech**, and **Cybersecurity**. I specialize in **Node.js** and **C++** — designing scalable web systems and backend architectures. My long-term focus is on *creating intelligent systems — robots, drones, and machines — that can see, hear, understand, and act using AI built from first principles in C++*.
 
 With a foundation as a **Software Development Engineer - I (SDE-I)** and **Team Facilitator**, I bring hands-on coding expertise, sharp problem-solving skills, and strong leadership to every phase of software delivery.
 
