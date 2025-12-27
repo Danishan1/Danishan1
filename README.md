@@ -48,7 +48,7 @@ With a foundation as a **Software Development Engineer - I (SDE-I)** and **Team 
 * **Education:** B-Tech (CSE'24) @ Amity University, Uttar Pradesh
 * **LinkedIn:** [Connect with me](https://www.linkedin.com/in/danishan/)
 * **Portfolio:** [Visit My Portfolio](https://danishan4u.in/)
-* **Other GitHub:** [Visit My Portfolio](https://github.com/itsrighttime/)
+* **Other GitHub:** [Visit My GitHub Account](https://github.com/itsrighttime/)
 * **Resume:** [Download Resume](https://danishan4u.in/resume)
 
 
