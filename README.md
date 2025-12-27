@@ -47,8 +47,9 @@ With a foundation as a **Software Development Engineer - I (SDE-I)** and **Team 
 * **Current Roles:** Technical Project Lead @ JKC Software | Founder @ itsRIGHTtime
 * **Education:** B-Tech (CSE'24) @ Amity University, Uttar Pradesh
 * **LinkedIn:** [Connect with me](https://www.linkedin.com/in/danishan/)
-* **Portfolio:** [Visit My Portfolio](https://danishan1.github.io/portfolio/)
-* **Resume:** [Download Resume](https://danishan1.github.io/portfolio/html/danishan-resume.html)
+* **Portfolio:** [Visit My Portfolio](https://danishan4u.in/)
+* **Other GitHub:** [Visit My Portfolio](https://github.com/itsrighttime/)
+* **Resume:** [Download Resume](https://danishan4u.in/resume)
 
 
 ### Additional Skills
