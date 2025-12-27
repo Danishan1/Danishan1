@@ -59,11 +59,16 @@ With a foundation as a **Software Development Engineer - I (SDE-I)** and **Team 
 * **Agile & Time Management:** Delivering consistent results under pressure
 * **Quality Assurance:** Emphasis on clean, maintainable, scalable code
 
+<!--
 
 ### GitHub Activity
 
 ![Danishan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Danishan1&\&show_icons=true&\&title\&title_color=17202A\&icon_color=A2D9CE\&text_color=daf7dc\&bg_color=16A085)
 
+-->
 
 **Feel free to explore my repositories and connect for collaboration or opportunities!**
-👉 [Explore My Repositories »](https://github.com/Danishan1?tab=repositories)
+
+ [Explore My Repositories »](https://github.com/Danishan1?tab=repositories)
+
+ 
