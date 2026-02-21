@@ -16,7 +16,7 @@ I work primarily on backend architecture, distributed systems, and performance-s
 ## Experience
 
 ### Software Development Engineer II  
-**JKC Softwares LLP** | Mar 2025 – Present  
+_**JKC Softwares LLP** | Mar 2025 – Present_
 
 - Design and implement scalable backend systems serving production workloads.
 - Own features end-to-end: architecture, development, deployment, and optimization.
@@ -24,7 +24,7 @@ I work primarily on backend architecture, distributed systems, and performance-s
 - Conduct code reviews and mentor engineers on clean design practices.
 
 ### Software Development Engineer I  
-**JKC Softwares LLP** | Nov 2023 – Mar 2025  
+_**JKC Softwares LLP** | Nov 2023 – Mar 2025_  
 
 - Built and maintained full-stack applications using the MERN stack.
 - Designed backend modules and RESTful APIs.
@@ -47,7 +47,7 @@ I work primarily on backend architecture, distributed systems, and performance-s
 ## Education
 
 B.Tech in Computer Science & Engineering (2024)  
-Amity University, Uttar Pradesh  
+_Amity University, Uttar Pradesh_  
 
 
 <!--
