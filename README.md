@@ -4,11 +4,11 @@
 
 I’m a Backend Software Engineer with **3+ years of professional experience** building scalable backend systems, distributed services, and production-grade applications.
 
-Over the years, I have progressed from **Software Developer Intern** to **Software Development Engineer II**, working on enterprise platforms, distributed systems, infrastructure automation, and backend architecture. My primary focus is designing reliable, maintainable, and scalable software that solves real-world engineering problems.
+Over the years, I have progressed from **Software Developer Intern** to **Software Development Engineer I**, working on enterprise platforms, distributed systems, infrastructure automation, and backend architecture. My primary focus is designing reliable, maintainable, and scalable software that solves real-world engineering problems.
 
 ## Professional Experience
 
-Currently working as a **Software Development Engineer II**, where I design and develop backend systems using technologies such as **Node.js, TypeScript, C++, PostgreSQL, MySQL, Redis, Kafka, Docker, and Linux**.
+Currently working as a **Software Development Engineer I**, where I design and develop backend systems using technologies such as **Node.js, TypeScript, C++, PostgreSQL, MySQL, Redis, Kafka, Docker, and Linux**.
 
 My day-to-day work includes:
 
@@ -107,7 +107,6 @@ I'm currently expanding my knowledge in:
 I'm always interested in discussing backend engineering, distributed systems, software architecture, developer infrastructure, and emerging technologies.
 
 * [LinkedIn](https://www.linkedin.com/in/danishan/)
-* [Portfolio](https://danishan4u.in/)
 * [Email](mailto:danishan.farookh@gmail.com)
 
 
