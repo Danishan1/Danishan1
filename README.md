@@ -1,39 +1,30 @@
-# Hi there I'm Danishan 
+# Hi, I'm Danishan
 
-### Backend Software Engineer | Node.js • TypeScript • C++
+### Software Development Engineer | Backend & Distributed Systems
 
-I’m a Backend Software Engineer with **3+ years of professional experience** building scalable backend systems, distributed services, and production-grade applications.
+I'm a **Software Development Engineer** with **3+ years of professional experience** building production backend systems, distributed services, and internal enterprise platforms.
 
-Over the years, I have progressed from **Software Developer Intern** to **Software Development Engineer I**, working on enterprise platforms, distributed systems, infrastructure automation, and backend architecture. My primary focus is designing reliable, maintainable, and scalable software that solves real-world engineering problems.
+My work focuses on designing **scalable, reliable, and maintainable backend systems**—from API and database design to distributed processing, performance optimization, infrastructure, and production debugging.
 
-## Professional Experience
+I've progressed from **Software Development Intern to Software Development Engineer I**, working across **50+ backend services and applications** and taking end-to-end ownership of backend features and systems.
 
-Currently working as a **Software Development Engineer I**, where I design and develop backend systems using technologies such as **Node.js, TypeScript, C++, PostgreSQL, MySQL, Redis, Kafka, Docker, and Linux**.
+## What I Work On
 
-My day-to-day work includes:
+My engineering work spans:
 
-* Backend Architecture
-* REST API Development
-* Distributed Systems
-* Event-Driven Applications
-* Database Design & Optimization
-* Docker & Linux Infrastructure
-* Production Deployment
-* Performance Optimization
-* Code Reviews & Engineering Best Practices
+* **Backend Architecture & System Design**
+* **REST API & Service Development**
+* **Microservices & Event-Driven Architecture**
+* **Distributed Systems & Asynchronous Processing**
+* **Database Design & Query Optimization**
+* **Caching & Performance Engineering**
+* **Real-Time Systems & WebSockets**
+* **Authentication & Authorization**
+* **Production Debugging & Reliability**
+* **Docker & Linux Infrastructure**
+* **Code Reviews & Technical Design**
 
-> **Note:** Most of my professional work is proprietary and belongs to the organizations and clients I have worked with. Therefore, many production systems and enterprise projects cannot be published as open-source repositories.
-
-## Selected Engineering Work
-
-Throughout my professional journey, I've contributed to the design and development of systems such as:
-
-* Secure Multi-Domain Mail Server Platform
-* Automated Application Server Infrastructure
-* Organizational Operating Platform
-* Distributed Gaming Platform
-* Billing & Business Management Software
-* Enterprise Backend Services & APIs
+I enjoy working on problems where the challenge isn't simply building a feature, but designing the system behind it to remain **performant, reliable, and maintainable in production**.
 
 ## Technology Stack
 
@@ -49,21 +40,27 @@ Throughout my professional journey, I've contributed to the design and developme
 
 * Node.js
 * Express.js
+* Fastify
+* NestJS
 * REST APIs
+* GraphQL
 * WebSockets
-* Authentication & Authorization
+* Socket.IO
 
 ### Databases
 
 * PostgreSQL
 * MySQL
 * MongoDB
-* Redis
 
 ### Distributed Systems
 
+* Redis
+* Memcached
 * Kafka
+* RabbitMQ
 * Redis Pub/Sub
+* Microservices
 * Event-Driven Architecture
 
 ### Infrastructure
@@ -72,42 +69,89 @@ Throughout my professional journey, I've contributed to the design and developme
 * Linux
 * Nginx
 * PM2
-* Git
-  
+* CI/CD
+
+### Engineering
+
+* System Design
+* HLD / LLD
+* API Design
+* Database Design
+* Performance Optimization
+* Production Debugging
+* Unit & Integration Testing
+* Code Reviews
+
+## Selected Engineering Work
+
+I've contributed to and worked on systems including:
+
+### Secure Multi-Domain Mail Server
+
+A containerized mail platform supporting multiple organizations, domains, and mail accounts, with secure mail processing, persistent storage, and automated deployment.
+
+**Stack:** Node.js · PostgreSQL · Docker · SMTP · IMAP · Linux
+
+### Application Server Infrastructure
+
+A self-service platform for deploying and managing Node.js applications, automating application setup, reverse proxy configuration, SSL, and process management.
+
+**Stack:** Node.js · Docker · Linux · Nginx · PM2
+
+### Distributed Gaming Platform
+
+Backend systems for real-time gaming workflows involving transaction processing, distributed services, configurable business logic, and asynchronous event processing.
+
+**Stack:** Node.js · MySQL · Redis · Kafka · WebSockets
+
+### Organizational Operating Platform
+
+Backend services supporting communication, workflows, and organizational operations through scalable APIs and event-driven processing.
+
+**Stack:** Node.js · TypeScript · MySQL · Redis · Kafka
+
+### Billing & Business Management Platform
+
+Backend services for billing, invoicing, customer management, and business operations with an emphasis on secure APIs and reliable data processing.
+
+**Stack:** Node.js · TypeScript · MySQL · REST APIs
+
+> **Note:** Much of my professional work is proprietary and belongs to the organizations and clients I have worked with. As a result, many production systems and enterprise projects cannot be published as open-source repositories.
+
 ## Research
 
-I co-authored an **IEEE Conference Publication**:
+I co-authored an **IEEE conference publication**:
 
 **My Assistant SRSTC: Speech Recognition and Speech to Text Conversion**
 
-Published in the **2024 International Conference on Communication, Computer Sciences and Engineering (IC3SE)**.
+Published at the **2024 International Conference on Communication, Computer Sciences and Engineering (IC3SE)**.
 
-Research areas include:
+Research areas included:
 
 * Speech Recognition
 * Natural Language Processing
 * Virtual Assistants
 * Human-Computer Interaction
 
-## Currently Learning
+## Engineering Interests
 
-Technology evolves continuously, and so do I.
+I'm particularly interested in:
 
-I'm currently expanding my knowledge in:
-
-* Advanced System Design
 * Distributed Systems
+* Backend Architecture
+* System Design
+* Performance Engineering
+* Event-Driven Systems
+* Developer Infrastructure
 * Cloud-Native Architecture
 * Artificial Intelligence
-* Developer Infrastructure
-* C++ Performance Engineering
 
 ## Let's Connect
 
-I'm always interested in discussing backend engineering, distributed systems, software architecture, developer infrastructure, and emerging technologies.
+I'm always open to discussing **backend engineering, distributed systems, software architecture, system design, developer infrastructure, and interesting engineering problems**.
 
 * [LinkedIn](https://www.linkedin.com/in/danishan/)
 * [Email](mailto:danishan.farookh@gmail.com)
-
+* [GitHub](https://github.com/Danishan1)
 
 Thanks for visiting my profile!
