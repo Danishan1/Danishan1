@@ -1,8 +1,8 @@
-# Hi, I'm Danishan Farookh 👋
+# Hi, I'm Danishan Farookh
 
 ### Backend Engineer | Node.js • TypeScript • Distributed Systems | System Design & Architecture
 
-I'm a Backend Engineer with approximately **4 years of professional experience** building, scaling, and maintaining production-grade backend systems, distributed services, and enterprise applications.
+I'm a Backend Engineer with **professional experience** for building, scaling, and maintaining production-grade backend systems, distributed services, and enterprise applications.
 
 My engineering focus is on designing **scalable, reliable, and maintainable backend systems** — covering API design, database architecture, distributed processing, performance optimization, infrastructure, and production reliability.
 
